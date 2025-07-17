@@ -1,1 +1,1 @@
-airflow-cli
+apache/airflow:3.0.0
