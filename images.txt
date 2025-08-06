@@ -1,1 +1,1 @@
-apache/airflow:3.0.3
+bestzwei/libretv:latest
