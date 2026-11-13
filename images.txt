@@ -1,6 +1,5 @@
-registry.k8s.io/sig-storage/nfsplugin:v4.13.3
-registry.k8s.io/sig-storage/csi-provisioner:v6.1.0
-registry.k8s.io/sig-storage/csi-resizer:v2.0.0
-registry.k8s.io/sig-storage/csi-snapshotter:v8.4.0
-registry.k8s.io/sig-storage/livenessprobe:v2.17.0
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.15.0
+quay.io/tigera/operator:v1.44.0
+quay.io/calico/whisker:v3.33.0
+quay.io/calico/envoy-gateway:v3.33.0
+quay.io/calico/envoy-proxy:v3.33.0
+quay.io/calico/envoy-ratelimit:v3.33.0
