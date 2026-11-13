@@ -1,1 +1,3 @@
-registry.k8s.io/kube-apiserver:v1.37.1
+quay.io/calico/calico:v3.33.0
+quay.io/calico/node:v3.33.0
+quay.io/calico/third-party-cni-plugins:v3.33.0
