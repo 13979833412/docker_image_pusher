@@ -1,5 +1,1 @@
-quay.io/tigera/operator:v1.44.0
-quay.io/calico/whisker:v3.33.0
-quay.io/calico/envoy-gateway:v3.33.0
-quay.io/calico/envoy-proxy:v3.33.0
-quay.io/calico/envoy-ratelimit:v3.33.0
+busybox:1.37
